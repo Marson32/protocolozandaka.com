@@ -58,3 +58,13 @@ body {
 	font-size: 18px;
 	color: white;
 }
+
+body {
+	font-family: sans-serif;
+	background-image: url(imagens/bg2.png);
+}
+
+body {
+	font-family: sans-serif;
+	background-image: url(imagens/bg3.png);
+}
