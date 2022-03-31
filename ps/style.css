@@ -59,13 +59,6 @@ body {
 	color: white;
 }
 
-body {
-	font-family: sans-serif;
-	background-image: url(imagens/bg2.png);
-	width: 100px
-}
-
-body {
-	font-family: sans-serif;
-	background-image: url(imagens/bg3.png);
+#Bundle img{
+	vertical-align: top;
 }
